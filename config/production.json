@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://hriteek:hriteek@suiit.qwhan.mongodb.net/suiit?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"2eef2f4fb85e2c2b3b89",
+    "githubSecret":"10001e4a23fd17872b3cc14382c2efaf50f55ebd"
+}
